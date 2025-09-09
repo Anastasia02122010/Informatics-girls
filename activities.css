@@ -1,15 +1,20 @@
-p {
-  font-size: x-large;
-}
 body {
   background-color: cornsilk;
 }
-p {
-  margin: 30;
-}
-p {
-  text-align: justify;
-}
+
 .navbar {
   background-color: lightgreen;
+}
+
+.act {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.h1 {
+  font-weight: bolder;
+  margin-left: 20px;
+}
+.class {
+  gap: 50px;
 }
