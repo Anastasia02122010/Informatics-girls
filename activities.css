@@ -4,3 +4,6 @@ p {
 body {
   background-color: lightcyan;
 }
+p {
+  margin: 20;
+}
