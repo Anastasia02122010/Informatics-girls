@@ -23,3 +23,7 @@ body {
 .navdar {
   background-color: lightgreen;
 }
+
+.title {
+  margin-left: 10px;
+}
