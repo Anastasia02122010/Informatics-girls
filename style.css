@@ -23,3 +23,21 @@ body {
   justify-content: center;
   margin-top: 50px;
 }
+
+.main {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.main1 {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
