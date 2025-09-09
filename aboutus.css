@@ -14,11 +14,17 @@ p {
 .image-container {
   display: flex;
   justify-content: center;
+  flex-direction: row;
   margin-top: 70px;
   gap: 20px;
-  object-fit: fit-content;
 }
 
-.image-wrapper {
-  justify-content: center;
+.image-container img {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .image-container {
+    flex-direction: column;
+  }
 }
