@@ -19,3 +19,11 @@ body {
   display: flex;
   margin-left: 30px;
 }
+
+.navdar {
+  background-color: lightgreen;
+}
+
+.title {
+  margin-left: 10px;
+}
