@@ -7,3 +7,8 @@ body {
   justify-content: center;
   font-weight: bold;
 }
+
+.image {
+  display: flex;
+  justify-content: center;
+}
