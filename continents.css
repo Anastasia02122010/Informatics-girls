@@ -1,3 +1,9 @@
 body {
   background-color: lightblue;
 }
+
+.paragraphs {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
