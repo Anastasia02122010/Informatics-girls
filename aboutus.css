@@ -8,3 +8,17 @@ img {
   height: 200px;
   width: 200;
 }
+p {
+  text-align: center;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  gap: 20px;
+  object-fit: fit-content;
+}
+
+.image-wrapper {
+  justify-content: center;
+}
