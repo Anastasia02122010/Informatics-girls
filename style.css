@@ -6,6 +6,13 @@ body {
   background-color: lightblue;
 }
 
+.h1 {
+  color: lightcoral;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
 .card-container {
   display: flex;
   flex-direction: row;
