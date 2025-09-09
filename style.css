@@ -1,5 +1,9 @@
 .navbar {
-  background-color: rgb(17, 239, 143);
+  background-color: lightgreen;
+}
+
+body {
+  background-color: lightblue;
 }
 
 .card-container {
