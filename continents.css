@@ -1,0 +1,9 @@
+body {
+  background-color: lightcyan;
+}
+
+.paragraphs {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
