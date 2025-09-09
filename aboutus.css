@@ -28,3 +28,7 @@ p {
     flex-direction: column;
   }
 }
+
+.navbar {
+  background-color: lightgreen;
+}
