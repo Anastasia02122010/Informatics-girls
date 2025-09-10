@@ -1,15 +1,14 @@
-p {
-  font-size: x-large;
+.page-container {
+  margin: 20px;
 }
+
 body {
   background-color: cornsilk;
 }
-img {
-  height: 200px;
-  width: 200;
-}
+
 p {
-  text-align: center;
+  text-align: left;
+  font-weight: bold;
 }
 .image-container {
   display: flex;
@@ -32,6 +31,7 @@ p {
 .navbar {
   background-color: lightgreen;
 }
+
 .h1 {
   margin-left: 20px;
 }

@@ -18,3 +18,7 @@ body {
 .class {
   gap: 50px;
 }
+
+.logoTitle {
+  margin-left: 10px;
+}
